@@ -16,6 +16,35 @@
             "uniqueID": 1745154403258,
             "ioValues": [],
             "description": "Connect geometry here to make it available in the next level up. "
+        },
+        {
+            "atomType": "Text",
+            "name": "Text",
+            "x": 0.3328125,
+            "y": 0.4173764906303237,
+            "uniqueID": 1745155984226,
+            "ioValues": [],
+            "description": "Creates a new text sketch.",
+            "fontFamily": "ROBOTO",
+            "selectedFontIndex": 1
+        },
+        {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.329296875,
+            "y": 0.6814310051107325,
+            "uniqueID": 1745156196768,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 1000
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 500
+                }
+            ],
+            "description": "Creates a new rectangle."
         }
     ],
     "allConnectors": [],
